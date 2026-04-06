@@ -1,0 +1,1 @@
+Deep learning, a subset of machine learning, is driving many of the recent breakthroughs in artificial intelligence and computer vision systems. By using multi-layered neural networks, computers can learn to recognize patterns and make decisions with an incredible level of accuracy. This technology is being applied in fields ranging from medical diagnosis to autonomous vehicles.
